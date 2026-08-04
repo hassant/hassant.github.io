@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhassant_blog=self.webpackChunkhassant_blog||[]).push([["5773"],{5094(e){e.exports=JSON.parse('{"metadata":{"permalink":"/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":11,"previousPage":"/","blogDescription":"Notes on AI agents, cloud, and engineering.","blogTitle":"/dev/hassan \u2014 Blog"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhassant_blog=self.webpackChunkhassant_blog||[]).push([["8620"],{8391(s,e,a){a.d(e,{createInfoServices:()=>c.v});var c=a(6491);a(1400)}}]);
